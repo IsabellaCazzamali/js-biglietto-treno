@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(178, 38, 38);
+}
+
+#ticket_price{
+    color: gold;
+    font-size: 3rem;
+    padding: 2rem;
+}
